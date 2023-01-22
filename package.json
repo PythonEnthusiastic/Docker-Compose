@@ -1,0 +1,23 @@
+{
+  "name": "docker-image",
+  "version": "1.0.0",
+  "description": "Creating a Docker Image",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PythonEnthusiastic/Creating-Docker-Image.git"
+  },
+  "author": "Terry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PythonEnthusiastic/Creating-Docker-Image/issues"
+  },
+  "homepage": "https://github.com/PythonEnthusiastic/Creating-Docker-Image#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
